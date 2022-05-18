@@ -1,0 +1,1 @@
+![snake gif](readme/github-contribution-grid-snake.svg)
