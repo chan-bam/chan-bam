@@ -10,15 +10,37 @@
 
 <h3 align=center>💻️ Tech Stacks</h3>
 
-<p align="center"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" /><img src="https://img.shields.io/badge/css3-2862E9?style=flat-square&logo=css3&logoColor=white" /><img src="https://img.shields.io/badge/JavaScript-F7E018?style=flat-square&logo=javascript&logoColor=white" /><img src="https://img.shields.io/badge/React-45CEF7?style=flat-square&logo=react&logoColor=white" /><img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white" /><img src="https://img.shields.io/badge/Vue.js-00BB7C?style=flat-square&logo=Vue.js&logoColor=white" /><img src="https://img.shields.io/badge/TypeScript-2D79C7?style=flat-square&logo=Typescript&logoColor=white" /><img src="https://img.shields.io/badge/npm-C93739?style=flat-square&logo=npm&logoColor=white" /><img src="https://img.shields.io/badge/BABEL-F1CC02?style=flat-square&logo=babel&logoColor=white" /></p>
+<p align="center">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" /></a>
+    <img src="https://img.shields.io/badge/css3-2862E9?style=flat-square&logo=css3&logoColor=white" /></a>
+    <img src="https://img.shields.io/badge/JavaScript-F7E018?style=flat-square&logo=javascript&logoColor=white" /></a>
+    <img src="https://img.shields.io/badge/React-45CEF7?style=flat-square&logo=react&logoColor=white" /></a>
+    <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white" /></a>
+    <img src="https://img.shields.io/badge/Vue.js-00BB7C?style=flat-square&logo=Vue.js&logoColor=white" /></a>
+    <img src="https://img.shields.io/badge/TypeScript-2D79C7?style=flat-square&logo=Typescript&logoColor=white" /></a>
+    <img src="https://img.shields.io/badge/npm-C93739?style=flat-square&logo=npm&logoColor=white" /></a>
+    <img src="https://img.shields.io/badge/BABEL-F1CC02?style=flat-square&logo=babel&logoColor=white" />
+</p>
 
-<p align="center"><img src="https://img.shields.io/badge/python-306794?style=flat-square&logo=python&logoColor=white" /><img src="https://img.shields.io/badge/django-092D1F?style=flat-square&logo=django&logoColor=white" /><img src="https://img.shields.io/badge/C-2B2151?style=flat-square&logo=c&logoColor=white" /></p>
+<p align="center">
+    <img src="https://img.shields.io/badge/python-306794?style=flat-square&logo=python&logoColor=white" /><b />
+    <img src="https://img.shields.io/badge/django-092D1F?style=flat-square&logo=django&logoColor=white" /><b />
+    <img src="https://img.shields.io/badge/C-2B2151?style=flat-square&logo=c&logoColor=white" /><b />
+</p>
 
-<p align="center"><img src="https://img.shields.io/badge/GitHub-0F1012?style=flat-square&logo=github&logoColor=white" /><img src="https://img.shields.io/badge/GitLab-34156E?style=flat-square&logo=gitlab&logoColor=white" /><img src="https://img.shields.io/badge/Jira-006EE8?style=flat-square&logo=Jira&logoColor=white" /><img src="https://img.shields.io/badge/Mattermost-196BD7?style=flat-square&logo=mattermost&logoColor=white" /><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" /><img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" /><img src="https://img.shields.io/badge/ngrok-DD4814?style=flat-square&logo=ngrok&logoColor=white" /></p>
+<p align="center">
+    <img src="https://img.shields.io/badge/GitHub-0F1012?style=flat-square&logo=github&logoColor=white" /></a>
+    <img src="https://img.shields.io/badge/GitLab-34156E?style=flat-square&logo=gitlab&logoColor=white" /></a>
+    <img src="https://img.shields.io/badge/Jira-006EE8?style=flat-square&logo=Jira&logoColor=white" /></a>
+    <img src="https://img.shields.io/badge/Mattermost-196BD7?style=flat-square&logo=mattermost&logoColor=white" /></a>
+    <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" /></a>
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" /></a>
+    <img src="https://img.shields.io/badge/ngrok-DD4814?style=flat-square&logo=ngrok&logoColor=white" />
+</p>
 
 
 
-<h3 align=center>🧮 Problem Solving<br />
+<h3 align=center>🧮 Problem Solving<br /><br />
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=chanbam)](https://solved.ac/chanbam)
@@ -27,6 +49,11 @@
 
 <br />
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=chan-bam&title_color=3b6745&show_icons=true&icon_color=3b6745&hide_border=true&border_radius=10&bg_color=90,ede8e8,fafafa,ede8e8)
+</h3>
+
+<h3 align=center> 
+    <svg role="img" width="30" height="30" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>GitHub</title><path d="M12 .297c-6.63 0-12 5.373-12 12 0 5.303 3.438 9.8 8.205 11.385.6.113.82-.258.82-.577 0-.285-.01-1.04-.015-2.04-3.338.724-4.042-1.61-4.042-1.61C4.422 18.07 3.633 17.7 3.633 17.7c-1.087-.744.084-.729.084-.729 1.205.084 1.838 1.236 1.838 1.236 1.07 1.835 2.809 1.305 3.495.998.108-.776.417-1.305.76-1.605-2.665-.3-5.466-1.332-5.466-5.93 0-1.31.465-2.38 1.235-3.22-.135-.303-.54-1.523.105-3.176 0 0 1.005-.322 3.3 1.23.96-.267 1.98-.399 3-.405 1.02.006 2.04.138 3 .405 2.28-1.552 3.285-1.23 3.285-1.23.645 1.653.24 2.873.12 3.176.765.84 1.23 1.91 1.23 3.22 0 4.61-2.805 5.625-5.475 5.92.42.36.81 1.096.81 2.22 0 1.606-.015 2.896-.015 3.286 0 .315.21.69.825.57C20.565 22.092 24 17.592 24 12.297c0-6.627-5.373-12-12-12"/></svg> GitHub Stats<br /><br />
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=chan-bam&title_color=3b6745&show_icons=true&icon_color=3b6745&hide_border=true&border_radius=10&bg_color=fafafa&hide_title=true)
 
 </h3>
