@@ -21,14 +21,12 @@
     <img src="https://img.shields.io/badge/npm-C93739?style=flat-square&logo=npm&logoColor=white" /></a>
     <img src="https://img.shields.io/badge/BABEL-F1CC02?style=flat-square&logo=babel&logoColor=white" />
 </p>
-
-
 <p align="center">
     <img src="https://img.shields.io/badge/python-306794?style=flat-square&logo=python&logoColor=white" /><b />
     <img src="https://img.shields.io/badge/django-092D1F?style=flat-square&logo=django&logoColor=white" /><b />
+    <img src="https://img.shields.io/badge/SQLite-68B6E2?style=flat-square&logo=sqlite&logoColor=white" /><b />
     <img src="https://img.shields.io/badge/C-2B2151?style=flat-square&logo=c&logoColor=white" /><b />
 </p>
-
 <p align="center">
     <img src="https://img.shields.io/badge/GitHub-0F1012?style=flat-square&logo=github&logoColor=white" /></a>
     <img src="https://img.shields.io/badge/GitLab-34156E?style=flat-square&logo=gitlab&logoColor=white" /></a>
@@ -38,7 +36,6 @@
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" /></a>
     <img src="https://img.shields.io/badge/ngrok-DD4814?style=flat-square&logo=ngrok&logoColor=white" />
 </p>
-
 
 
 <h3 align=center>🧮 Problem Solving<br /><br />
