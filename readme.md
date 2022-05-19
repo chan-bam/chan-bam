@@ -51,9 +51,10 @@
 
 <p align=center>
 <img src='readme/image-20220519221638691.png' />
-
-<h3 align=center>GitHub Stats</h3><br />
+<h3 align=center>GitHub Stats<br />
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=chan-bam&title_color=3b6745&show_icons=true&icon_color=3b6745&hide_border=true&border_radius=10&bg_color=fafafa&hide_title=true)
+
+</h3>
 
 </p>
