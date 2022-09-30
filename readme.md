@@ -38,7 +38,8 @@
 </p>
 
 
-<h3 align=center>🧮 Problem Solving<br />
+<h3 align=center>🧮 Problem Solving<br /><br />
+
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=chanbam)](https://solved.ac/chanbam)
@@ -46,7 +47,7 @@
 </h3>
 
 <h3 align=center>
-    <img src='readme/image-20220519221638691.png'/></a>GitHub Stats<br />
+    <img src='readme/image-20220519221638691.png'/></a>GitHub Stats<br /><br />
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=chan-bam&title_color=3b6745&show_icons=true&icon_color=3b6745&hide_border=true&border_radius=10&bg_color=ede8e8&hide_title=true)
