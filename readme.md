@@ -34,8 +34,10 @@
     <img src="https://img.shields.io/badge/Mattermost-196BD7?style=flat-square&logo=mattermost&logoColor=white" /></a>
     <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" /></a>
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" /></a>
-    <img src="https://img.shields.io/badge/ngrok-DD4814?style=flat-square&logo=ngrok&logoColor=white" />
+    <img src="https://img.shields.io/badge/ngrok-DD4814?style=flat-square&logo=ngrok&logoColor=white" /></a>
+	<img src="https://img.shields.io/badge/vercel-000000?style=flat-square&logo=vercel&logoColor=white" /></a>
 </p>
+
 
 
 <h3 align=center>🧮 Problem Solving<br /><br />
@@ -53,3 +55,9 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=chan-bam&title_color=3b6745&show_icons=true&icon_color=3b6745&hide_border=true&border_radius=10&bg_color=ede8e8&hide_title=true)
 
 </h3>
+
+<p align=center>
+    <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23577B5F&title_bg=%23EDE8E8&icon=&icon_color=%23CCCCCC&title=%F0%9F%91%80&edge_flat=false"/></a>
+
+</p>
+
