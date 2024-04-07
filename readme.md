@@ -1,10 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=shark&color=0:bab6b6,25:ede8e8,50:fafafa,75:ede8e8,100:bab6b6&height=150&section=header&text=Welcome%20to%20Chan's%20GitHub&&fontColor=3b6745&fontSize=45&animation=scaleIn)
 
-![snake gif](https://github.com/chan-bam/chan-bam/blob/output/github-contribution-grid-snake.svg)
+
 
 <h3 align=center>Why not?</h3>
-
-<h6 align=center>KEEP TRYING UNTIL YOU SUCCEED</h6>
 
 
 
